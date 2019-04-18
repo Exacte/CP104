@@ -1,0 +1,48 @@
+# Question 1
+What is your desired serving? 8
+5.3 Cups of milk
+10.7 Tablespoons of unsalted butter
+0.7 Cups of all purpose flour
+2.7 Table spoons of kosher salt
+
+What is your desired serving? 5
+3.3 Cups of milk
+6.7 Tablespoons of unsalted butter
+0.4 Cups of all purpose flour
+1.7 Table spoons of kosher salt
+
+What is your desired serving? 3
+2.0 Cups of milk
+4.0 Tablespoons of unsalted butter
+0.2 Cups of all purpose flour
+1.0 Table spoons of kosher salt
+
+# Question 2
+Enter the name of the song: Gangnam Style
+How many views does the video have? 2092616416
+How many minutes is the video? 4
+and how many seconds? 12
+while watching Gangnam Style, you could have spent 0.0000080 years doing homework.
+
+Enter the name of the song: Baby
+How many views does the video have? 1089597632
+How many minutes is the video? 3
+and how many seconds? 36
+while watching Baby, you could have spent 0.0000068 years doing homework.
+
+Enter the name of the song: League of Legends : Final Boss (song) 
+How many views does the video have? 2299035
+How many minutes is the video? 2
+and how many seconds? 18
+while watching League of Legends : Final Boss (song) , you could have spent 0.0000044 years doing homework.
+
+# Question 3
+How much data will be transmitted(GB)? 3.96
+What is your fastest download speed(Mbps)? 8.8
+What is your slowest download speed(Mbps)? 6.6
+The fastest the movie will download is 60.00 minutes. The slowest it will download is 80.00 minutes!
+
+How much data will be transmitted(GB)? 5.4
+What is your fastest download speed(Mbps)? 8.8
+What is your slowest download speed(Mbps)? 6.6
+The fastest the movie will download is 81.82 minutes. The slowest it will download is 109.09 minutes!

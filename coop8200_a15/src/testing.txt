@@ -1,0 +1,88 @@
+# Question 1
+Number of cards in hand (0 to quit): 10
+Would you like an Ace High or Ace low deck(H/L):L
+Ace 4 5 6 7 8 Jack Jack Queen King 
+
+Number of cards in hand (0 to quit): 10
+Would you like an Ace High or Ace low deck(H/L):H
+3 4 5 5 5 6 9 9 Jack King 
+
+Number of cards in hand (0 to quit): 11
+Would you like an Ace High or Ace low deck(H/L):L
+2 3 4 4 5 8 9 9 Jack King King 
+
+Number of cards in hand (0 to quit): 13
+Would you like an Ace High or Ace low deck(H/L):H
+2 2 4 5 5 7 8 9 9 10 Jack Queen King 
+
+Number of cards in hand (0 to quit): 12
+Would you like an Ace High or Ace low deck(H/L):L
+3 4 5 6 7 8 9 9 9 Jack Queen King 
+
+Number of cards in hand (0 to quit): 13
+Would you like an Ace High or Ace low deck(H/L):H
+5 6 8 8 9 9 10 10 Jack Queen King Ace Ace 
+
+Number of cards in hand (0 to quit): 0
+Would you like an Ace High or Ace low deck(H/L):l
+
+# Question 2
+Number of cards in hand (0 to quit): 5
+Would you like an Ace High or Ace low deck(H/L):H
+2 6 6 Jack King 
+2 2 2 4 7 
+5 6 10 Queen Ace 
+5 6 8 Queen Ace 
+5 5 9 Queen Ace 
+Jack 10 9 4 8 3 8 King 9 7 10 3 Jack Jack 10 Ace Queen King 7 7 4 4 3 8 9 3 King 
+Number of cards in hand (0 to quit): 2
+Would you like an Ace High or Ace low deck(H/L):H
+2 5 
+2 Ace 
+5 King 
+3 Ace 
+4 7 
+10 King 8 10 Queen 7 Jack Queen 6 10 9 2 6 King 5 Queen 6 9 3 4 8 8 3 Queen Jack Ace 7 6 9 Jack 2 Ace 4 Jack 7 8 5 3 King 10 9 4 
+Number of cards in hand (0 to quit): 3
+Would you like an Ace High or Ace low deck(H/L):L
+2 3 King 
+7 8 Ace 
+9 9 Ace 
+3 3 Queen 
+4 6 7 
+4 10 6 6 King King Queen 4 2 Jack 7 10 3 2 Queen 2 Queen 5 Ace Jack 7 5 6 9 10 4 5 Jack Jack 10 9 5 8 Ace 8 King 8 
+Number of cards in hand (0 to quit): 6
+Would you like an Ace High or Ace low deck(H/L):L
+2 2 4 7 Queen King 
+3 6 7 9 Jack King 
+3 7 8 10 10 Ace 
+2 2 6 6 7 King 
+4 5 9 10 Jack Queen 
+9 4 8 6 Queen Jack Jack 5 3 10 5 King 9 Queen 5 4 Ace 8 3 Ace Ace 8 
+Number of cards in hand (0 to quit): 
+
+# Question 3
+Ace 7 10 Jack King 
+None---- King Low
+4 8 8 9 King 
+None---- King Low
+2 3 5 7 10 
+None---- 10 Low
+10 Queen Queen Queen King 
+None---- King Low
+5 6 6 9 Jack 
+None---- Jack Low
+King 9 7 6 Ace 3 Ace 9 2 4 Ace 8 Jack Queen 3 8 10 5 Jack 5 6 2 3 4 4 7 2 
+Play again(Y/N)? y
+Ace 3 3 4 Queen 
+None---- Queen Low
+Ace 6 7 8 10 
+None---- 10 Low
+2 6 10 Jack King 
+None---- King Low
+Ace 2 4 9 King 
+None---- King Low
+5 6 7 Jack King 
+None---- King Low
+7 Jack 5 8 5 10 8 Jack 4 9 2 6 Queen Ace 9 9 Queen 5 4 7 8 3 3 2 Queen King 10 
+Play again(Y/N)? n

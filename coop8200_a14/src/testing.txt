@@ -1,0 +1,63 @@
+# Question 1
+Enter the number of integers to be entered: 3
+Enter a integer: 1
+Enter a integer: 2
+Enter a integer: 3
+1 2 3
+
+Enter the number of integers to be entered: 1
+Enter a integer: 2
+2 
+
+Enter the number of integers to be entered: 5
+Enter a integer: 1
+Enter a integer: 2
+Enter a integer: 3
+Enter a integer: 6
+Enter a integer: 5
+1 2 3 6 5 
+
+Enter the number of integers to be entered: 4
+Enter a integer: 5
+Enter a integer: 2
+Enter a integer: 3
+Enter a integer: 6
+5 2 3 6 
+
+Enter the number of integers to be entered: 3
+Enter a integer: 85
+Enter a integer: 52
+Enter a integer: 32
+85 52 32 
+
+# Question 2
+Enter the number of integers to be entered: 3
+Enter a integer: a
+Enter a integer: b
+Enter a integer: c
+a b c 
+
+Enter the number of integers to be entered: 3
+Enter a integer: cow
+Enter a integer: dog
+Enter a integer: chicken
+cow dog chicken 
+
+This works because we are spliting up a list into its componets. it doesnt
+matter what the list consists of.
+
+# Question 3
+Enter the number of cards to be dealt: 5
+Queen 2 8 7 6 
+
+Enter the number of cards to be dealt: 6
+Jack 8 Queen Ace 3 4 
+
+Enter the number of cards to be dealt: 7
+3 8 7 6 5 9 Ace 
+
+Enter the number of cards to be dealt: 8
+2 King 10 6 9 Ace Jack Queen 
+
+Enter the number of cards to be dealt: 9
+Jack King 7 4 9 5 2 6 10 

@@ -1,0 +1,19 @@
+"""
+-------------------------------------------------------
+testing.txt
+Assignment 0 Testing
+-------------------------------------------------------
+Author:  your name
+ID:      your ID
+Email:   your Laurier email address
+Version: ${isodate}
+-------------------------------------------------------
+"""
+# Question 2
+Please enter your name: Mason Cooper
+Pleased to meet you 
+Mason Cooper
+
+# Question 4
+Your pay is 3700.0
+Because the program takes the sum of the salary($2500) and the bonus($1200).

@@ -1,0 +1,73 @@
+# 1 Question
+Enter the amount of years. 1
+Enter precipitation in mm. 
+Year 1
+January- 0.1
+February- 1
+March- 3.5
+April- 6.8
+May- 5.6
+June- 3.2
+July- 2
+August- 3
+September- 1
+October- 1
+November- .8
+December- .2
+Number of months: 12
+Total: 28.2
+Average: 2.4
+
+Enter the amount of years. 2
+Enter precipitation in mm. 
+Year 1
+January- 7
+February- 8
+March- 5
+April- 9
+May- 6
+June- 3
+July- 2
+August- 4
+September- 1
+October- 2
+November- 5
+December- 6
+Year 2
+January- 3
+February- 2
+March- 1
+April- 4
+May- 5
+June- 7
+July- 8
+August- 9
+September- 6
+October- 3
+November- 2
+December- 1
+Number of months: 24
+Total: 109.0
+Average: 4.5
+
+# 2 Question
+Enter the max range: 10
+Enter the amount of numbers to be generated: 1000
+Number of positive values: 464
+Number of negative values: 482
+Number of zeros: 54
+Average: 0.04
+
+Enter the max range: 15
+Enter the amount of numbers to be generated: 100000
+Number of positive values: 48535
+Number of negative values: 48158
+Number of zeros: 3307
+Average: 0.05
+
+Enter the max range: 5
+Enter the amount of numbers to be generated: 10000
+Number of positive values: 4503
+Number of negative values: 4606
+Number of zeros: 891
+Average: -0.03

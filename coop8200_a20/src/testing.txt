@@ -1,0 +1,98 @@
+# Question 1
+Enter a year: 2014
+Enter a month(1-12): 1
+Enter a day(1-31): 31
+Wednesday
+
+Enter a year: 2014
+Enter a month(1-12): 2
+Enter a day(1-31): 28
+Tuesday
+
+
+Enter a year: 2000
+Enter a month(1-12): 2
+Enter a day(1-31): 29
+Sunday
+
+Enter a year: 1996
+Enter a month(1-12): 2
+Enter a day(1-31): 29
+Tuesday
+
+Enter a year: 1812
+Enter a month(1-12): 11
+Enter a day(1-31): 30
+Monday
+
+# Question 2
+Enter a year: 1900
+[31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
+
+Enter a year: 2000
+[31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
+
+Enter a year: 2014
+[31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
+
+# Question 3
+Enter a year: 2014
+Enter a month(1-12): 12
+Sun Mon Tue Wed Thu Fri Sat
+      1   2   3   4   5   6 
+  7   8   9  10  11  12  13 
+ 14  15  16  17  18  19  20 
+ 21  22  23  24  25  26  27 
+ 28  29  30  31 
+
+Enter a year: 2014
+Enter a month(1-12): 11
+Sun Mon Tue Wed Thu Fri Sat
+                      1   2 
+  3   4   5   6   7   8   9 
+ 10  11  12  13  14  15  16 
+ 17  18  19  20  21  22  23 
+ 24  25  26  27  28  29  30 
+
+# Question 4
+Enter a year: 2014
+Enter a month(1-12): 2
+
+     February 2014         
+
+Sun Mon Tue Wed Thu Fri Sat
+              1   2   3   4 
+  5   6   7   8   9  10  11 
+ 12  13  14  15  16  17  18 
+ 19  20  21  22  23  24  25 
+ 26  27  28 
+
+
+
+
+Enter a year: 2012
+Enter a month(1-12): 2
+
+     February 2012         
+
+Sun Mon Tue Wed Thu Fri Sat
+      1   2   3   4   5   6 
+  7   8   9  10  11  12  13 
+ 14  15  16  17  18  19  20 
+ 21  22  23  24  25  26  27 
+ 28  29
+
+
+
+
+Enter a year: 1812
+Enter a month(1-12): 1
+
+      January 1812         
+
+Sun Mon Tue Wed Thu Fri Sat
+          1   2   3   4   5 
+  6   7   8   9  10  11  12 
+ 13  14  15  16  17  18  19 
+ 20  21  22  23  24  25  26 
+ 27  28  29  30  31 

@@ -1,0 +1,140 @@
+# 1 Question
+Does your house cost less then $400,000(Y/N)? y
+Is your combined income under $225,000(Y/N)? y
+Have you owned a primary residence in the last three years(Y/N)? y
+You are eligable for the First Time Home Buyer Tax Credit!
+
+Does your house cost less then $400,000(Y/N)? Y
+Is your combined income under $225,000(Y/N)? Y
+Have you owned a primary residence in the last three years(Y/N)? Y
+You are eligable for the First Time Home Buyer Tax Credit!
+
+Does your house cost less then $400,000(Y/N)? y
+Is your combined income under $225,000(Y/N)? y
+Have you owned a primary residence in the last three years(Y/N)? n
+You are eligable NOT for the First Time Home Buyer Tax Credit!
+
+Does your house cost less then $400,000(Y/N)? y
+Is your combined income under $225,000(Y/N)? n
+Have you owned a primary residence in the last three years(Y/N)? n
+You are eligable NOT for the First Time Home Buyer Tax Credit!
+
+Does your house cost less then $400,000(Y/N)? n
+Is your combined income under $225,000(Y/N)? n
+Have you owned a primary residence in the last three years(Y/N)? n
+You are eligable NOT for the First Time Home Buyer Tax Credit!
+
+# 2 Question
+Enter the breaths per minute: 25
+Enter the age(years): 0
+your average respiration rate is within the acceptable range.
+
+
+Enter the breaths per minute: 60
+Enter the age(years): 0
+your average respiration rate is within the acceptable range.
+
+Enter the breaths per minute: 61
+Enter the age(years): 0
+Your average respiration rate is to HIGH!
+
+Enter the breaths per minute: 24
+Enter the age(years): 0
+Your average respiration rate is to LOW!!
+
+Enter the breaths per minute: 30
+Enter the age(years): 1
+your average respiration rate is within the acceptable range.
+
+Enter the breaths per minute: 20
+Enter the age(years): 4
+your average respiration rate is within the acceptable range.
+
+Enter the breaths per minute: 31
+Enter the age(years): 4
+Your average respiration rate is to HIGH!
+
+Enter the breaths per minute: 19
+Enter the age(years): 1
+Your average respiration rate is to LOW!!
+
+Enter the breaths per minute: 25
+Enter the age(years): 5
+your average respiration rate is within the acceptable range.
+
+Enter the breaths per minute: 15
+Enter the age(years): 14
+your average respiration rate is within the acceptable range.
+
+Enter the breaths per minute: 26
+Enter the age(years): 5
+Your average respiration rate is to HIGH!
+
+Enter the breaths per minute: 14
+Enter the age(years): 14
+Your average respiration rate is to LOW!!
+
+Enter the breaths per minute: 23
+Enter the age(years): 15
+your average respiration rate is within the acceptable range.
+
+Enter the breaths per minute: 11
+Enter the age(years): 18
+your average respiration rate is within the acceptable range.
+
+Enter the breaths per minute: 10
+Enter the age(years): 11
+Your average respiration rate is to LOW!!
+
+Enter the breaths per minute: 24
+Enter the age(years): 18
+Your average respiration rate is to HIGH!
+
+Enter the breaths per minute: 30000000
+Enter the age(years): 25
+Your to old!
+
+# 3 Question
+Enter a primary colour: red
+Enter another primary colour: blue
+Purple!!
+
+Enter a primary colour: blue
+Enter another primary colour: red
+Purple!!
+
+Enter a primary colour: red
+Enter another primary colour: yellow
+Orange!!
+
+Enter a primary colour: yellow
+Enter another primary colour: red
+Orange!!
+
+Enter a primary colour: blue
+Enter another primary colour: yellow
+Green
+
+Enter a primary colour: yellow
+Enter another primary colour: blue
+Green
+
+Enter a primary colour: red
+Enter another primary colour: red
+You can't enter the same colour twice!!!!!!
+
+Enter a primary colour: blue
+Enter another primary colour: blue
+You can't enter the same colour twice!!!!!!
+
+Enter a primary colour: yellow
+Enter another primary colour: yellow
+You can't enter the same colour twice!!!!!!
+
+Enter a primary colour: t
+Enter another primary colour: red
+You didn't enter a primary color!!!
+
+Enter a primary colour: blue
+Enter another primary colour: p
+You didn't enter a primary color!!!

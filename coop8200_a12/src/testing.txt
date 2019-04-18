@@ -1,0 +1,57 @@
+# 1 Question
+Enter a string: 123
+True
+Would you like to continue(Y/N)? y
+Enter a string: 1.2
+False
+Would you like to continue(Y/N)? Y
+Enter a string: q123
+False
+Would you like to continue(Y/N)? n
+End
+
+# 2 Question
+Enter a sentence: hello my name is
+Enter a substring: my
+False
+Would you like to continue(Y/N)? y
+Enter a sentence: peanuts
+Enter a substring: pea
+True
+Would you like to continue(Y/N)? Y
+Enter a sentence: a
+Enter a substring: a
+True
+Would you like to continue(Y/N)? y
+Enter a sentence: look
+Enter a substring: ook
+False
+Would you like to continue(Y/N)? y
+Enter a sentence: i
+Enter a substring: p
+False
+Would you like to continue(Y/N)? n
+End
+
+# Question 3
+Enter a sentence: the fox is foxy
+Enter a substring: fox
+4
+Would you like to continue(Y/N)? y
+Enter a sentence: hello my name is
+Enter a substring: is
+14
+Would you like to continue(Y/N)? y
+Enter a sentence: what is up brother?
+Enter a substring: hi
+-1
+Would you like to continue(Y/N)? y
+Enter a sentence: hello, what is going on?
+Enter a substring: on?
+21
+Would you like to continue(Y/N)? y
+Enter a sentence: o
+Enter a substring: h
+-1
+Would you like to continue(Y/N)? n
+End

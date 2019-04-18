@@ -1,0 +1,30 @@
+# Question 1
+Enter the value of n: 2
+The sum of squares is 5
+
+Enter the value of n: 5
+The sum of squares is 55
+
+Enter the value of n: 10
+The sum of squares is 385
+
+# Question 2
+Enter the value of n: 5
+n is 0 and the sum of squares is 0
+n is 1 and the sum of squares is 1
+n is 2 and the sum of squares is 5
+n is 3 and the sum of squares is 14
+n is 4 and the sum of squares is 30
+n is 5 and the sum of squares is 55
+
+# Question 3
+Enter the value of n: 5
+The sum of squares is 55
+Would you like to run the program again(Y/N)? y
+Enter the value of n: 6
+The sum of squares is 91
+Would you like to run the program again(Y/N)? y
+Enter the value of n: 10
+The sum of squares is 385
+Would you like to run the program again(Y/N)? n
+Finished.

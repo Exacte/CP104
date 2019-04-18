@@ -1,0 +1,34 @@
+# 1 Question
+Enter a noun: lady
+ladies
+
+Enter a noun: kiss
+kisses
+
+Enter a noun: witch
+witches
+
+Enter a noun: dish
+dishes
+
+Enter a noun: log
+logs
+
+# 2 Question
+Enter a word: department
+Enter a second word: depart
+depart
+
+Enter a word: department
+Enter a second word: depart
+depart
+
+Enter a word: glow
+Enter a second word: depart
+
+# 3 Question
+Enter your full name: eddgar allen po
+E.A.P
+
+Enter your full name: ice babby
+I.B

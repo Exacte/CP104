@@ -1,0 +1,66 @@
+# Quesstion 1
+Enter the number of rows: 3
+Enter the number of columns: 3
+Z.Z
+Z.Z
+Z.Z
+
+Enter the number of rows: 2
+Enter the number of columns: 6
+Z.Z.Z.
+Z.Z.Z.
+
+Enter the number of rows: 6
+Enter the number of columns: 4
+Z.Z.
+Z.Z.
+Z.Z.
+Z.Z.
+Z.Z.
+Z.Z.
+
+# Quesstion 2
+Enter the number of rows: 5
+Enter the number of columns: 5
+Z.Z.Z
+Z.Z.Z
+Z.Z.Z
+Z.Z.Z
+Z.Z.Z
+
+Enter the number of rows: 2
+Enter the number of columns: 4
+Z.Z.
+Z.Z.
+
+Enter the number of rows: 5
+Enter the number of columns: 3
+Z.Z
+Z.Z
+Z.Z
+Z.Z
+Z.Z
+
+# Quesstion 3
+Enter the number of rows: 5
+Enter the number of columns: 5
+ZZZZZ
+Z...Z
+Z...Z
+Z...Z
+ZZZZZ
+
+Enter the number of rows: 2
+Enter the number of columns: 4
+ZZZZ
+ZZZZ
+
+Enter the number of rows: 5
+Enter the number of columns: 3
+ZZZ
+Z.Z
+Z.Z
+Z.Z
+ZZZ
+
+# Quesstion 4

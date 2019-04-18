@@ -1,0 +1,145 @@
+# 1 Question
+Enter a the start of the range: 1
+Enter a the end of the range: 10
+1.56
+3.11
+4.67
+6.22
+7.78
+9.33
+10.89
+12.44
+14.00
+15.55
+
+Enter a the start of the range: 5
+Enter a the end of the range: 25
+7.78
+9.33
+10.89
+12.44
+14.00
+15.55
+17.11
+18.66
+20.22
+21.77
+23.33
+24.88
+26.44
+27.99
+29.55
+31.10
+32.66
+34.21
+35.77
+37.32
+38.88
+
+# Question 2
+Enter the number of defects on 1 day: 1
+Enter the number of defects on 2 day: 3
+Enter the number of defects on 3 day: 5
+Enter the number of defects on 4 day: 7
+Enter the number of defects on 5 day: 9
+Enter the number of defects on 6 day: 6
+Enter the number of defects on 7 day: 4
+Your average number of defects per day for the 7 day week is: 5.00
+The Higst amount of defects a day was 9
+
+Enter the number of defects on 1 day: 10
+Enter the number of defects on 2 day: 5
+Enter the number of defects on 3 day: 9
+Enter the number of defects on 4 day: 3
+Enter the number of defects on 5 day: 4
+Enter the number of defects on 6 day: 8
+Enter the number of defects on 7 day: 5
+Your average number of defects per day for the 7 day week is: 6.29
+The Higst amount of defects a day was 10
+
+# 3 Question
+Enter your weight: 150
+Activites     15
+Canoeing      10.69
+Hiking        6.25
+Rollerblading 5.00
+Tae kwon do   3.64
+Tai chi       12.50
+
+Activites     30
+Canoeing      21.39
+Hiking        12.50
+Rollerblading 9.99
+Tae kwon do   7.28
+Tai chi       25.00
+
+Activites     45
+Canoeing      32.08
+Hiking        18.75
+Rollerblading 14.99
+Tae kwon do   10.92
+Tai chi       37.50
+
+Activites     60
+Canoeing      42.77
+Hiking        25.00
+Rollerblading 19.98
+Tae kwon do   14.56
+Tai chi       50.00
+
+Activites     75
+Canoeing      53.47
+Hiking        31.25
+Rollerblading 24.98
+Tae kwon do   18.20
+Tai chi       62.50
+
+Activites     90
+Canoeing      64.16
+Hiking        37.50
+Rollerblading 29.97
+Tae kwon do   21.84
+Tai chi       75.00
+
+Enter your weight: 90
+Activites     15
+Canoeing      6.42
+Hiking        3.75
+Rollerblading 3.00
+Tae kwon do   2.18
+Tai chi       7.50
+
+Activites     30
+Canoeing      12.83
+Hiking        7.50
+Rollerblading 5.99
+Tae kwon do   4.37
+Tai chi       15.00
+
+Activites     45
+Canoeing      19.25
+Hiking        11.25
+Rollerblading 8.99
+Tae kwon do   6.55
+Tai chi       22.50
+
+Activites     60
+Canoeing      25.66
+Hiking        15.00
+Rollerblading 11.99
+Tae kwon do   8.74
+Tai chi       30.00
+
+Activites     75
+Canoeing      32.08
+Hiking        18.75
+Rollerblading 14.99
+Tae kwon do   10.92
+Tai chi       37.50
+
+Activites     90
+Canoeing      38.50
+Hiking        22.50
+Rollerblading 17.98
+Tae kwon do   13.11
+Tai chi       45.00

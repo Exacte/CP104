@@ -1,0 +1,67 @@
+# 1 Question
+Enter the wattage of the light bulb: 15
+The Brightness is 125
+
+Enter the wattage of the light bulb: 100
+The Brightness is 1675
+
+Enter the wattage of the light bulb: 20
+Error: Invalid wattage
+
+# 2 Question
+Enter the type of beer (D = draft, B = bottle, C = can): D
+Enter the serving size(ml): 1500
+Enter a manufacturer(B=beer manufacturers, M=Microbrewers, P=Brew Pubs): B
+The Beer tax is $0.89
+
+Enter the type of beer (D = draft, B = bottle, C = can): B
+Enter the serving size(ml): 710
+Enter a manufacturer(B=beer manufacturers, M=Microbrewers, P=Brew Pubs): B
+The Beer tax is $0.54
+
+Enter the type of beer (D = draft, B = bottle, C = can): C
+Enter the serving size(ml): 343
+Enter a manufacturer(B=beer manufacturers, M=Microbrewers, P=Brew Pubs): B
+The Beer tax is $0.26
+
+Enter the type of beer (D = draft, B = bottle, C = can): D
+Enter the serving size(ml): 1500
+Enter a manufacturer(B=beer manufacturers, M=Microbrewers, P=Brew Pubs): M
+The Beer tax is $0.34
+
+Enter the type of beer (D = draft, B = bottle, C = can): B
+Enter the serving size(ml): 341
+Enter a manufacturer(B=beer manufacturers, M=Microbrewers, P=Brew Pubs): M
+The Beer tax is $0.09
+
+Enter the type of beer (D = draft, B = bottle, C = can): C
+Enter the serving size(ml): 355
+Enter a manufacturer(B=beer manufacturers, M=Microbrewers, P=Brew Pubs): M
+The Beer tax is $0.09
+
+Enter the type of beer (D = draft, B = bottle, C = can): D
+Enter the serving size(ml): 1500
+Enter a manufacturer(B=beer manufacturers, M=Microbrewers, P=Brew Pubs): P
+The Beer tax is $0.34
+
+# 3 Question
+Enter the type of beer (D = draft, B = bottle, C = can): D
+Enter the serving size(L): 1500
+Enter a manufacturer(B=beer manufacturers, M=Microbrewers, P=Brew Pubs): B
+The Beer tax is $0.89 and the Ontario beer tax is 264.00
+
+Enter the type of beer (D = draft, B = bottle, C = can): B
+Enter the serving size(L): 410
+Enter a manufacturer(B=beer manufacturers, M=Microbrewers, P=Brew Pubs): M
+The Beer tax is $0.10 and the Ontario beer tax is 72.16
+
+Enter the type of beer (D = draft, B = bottle, C = can): C
+Enter the serving size(L): 355
+Enter a manufacturer(B=beer manufacturers, M=Microbrewers, P=Brew Pubs): M
+The Beer tax is $0.09 and the Ontario beer tax is 0.27
+
+Enter the type of beer (D = draft, B = bottle, C = can): D
+Enter the serving size(L): 1500
+Enter a manufacturer(B=beer manufacturers, M=Microbrewers, P=Brew Pubs): P
+The Beer tax is $0.34
+

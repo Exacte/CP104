@@ -1,0 +1,21 @@
+pH values of household substances © 2006 WGBH Educational Foundation.
+http://www.sedl.org/afterschool/toolkits/science/pdf/ast_sci_data_tables_sample.pdf
+Lemon juice,2.4,2.0,2.2
+Baking soda (1 Tbsp) in Water (1 cup),8.4,8.3,8.7
+Orange juice,3.5,4.0,3.4
+Battery acid,1.0,0.7,0.5
+Apples,3.0,3.2,3.5
+Tomatoes,4.5,4.2,4.0
+Bottled water,6.7,7.0,7.2
+Milk of magnesia,10.5,10.3,10.6
+Liquid hand soap,9.0,10.0,9.5
+Vinegar,2.2,2.9,3.0
+Household bleach,12.5,12.5,12.7
+Milk,6.6,6.5,6.4
+Household ammonia,11.5,11.0,11.5
+Lye,13.0,13.5,13.4
+Sodium hydroxide,14.0,14.0,13.9
+Anti-freeze,10.1,10.9,9.7
+Windex,9.9,10.2,9.5
+Liquid detergent,10.5,10.0,10.3
+Cola,3.0,2.5,3.2

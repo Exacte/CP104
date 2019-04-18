@@ -1,0 +1,67 @@
+# 1 Question
+What Conversion would you like to make? (F/C) f
+Enter a temperature: 40
+40.0 degrees Celsius is 104.0 degrees Farenheit.
+
+What Conversion would you like to make? (F/C) c
+Enter a temperature: -459.68
+Error!
+
+What Conversion would you like to make? (F/C) f
+Enter a temperature: -273.15
+-273.1 degrees Celsius is -459.7 degrees Farenheit.
+
+# 2 Question
+Enter the max range. 10
+Enter the amount of numbers to be generated. 1000
+Number of positive numbers generated was: 526
+Number of negative numbers generated was: 199
+Number of zero's generated was: 275
+
+Enter the max range. 5
+Enter the amount of numbers to be generated. 100000
+Number of positive numbers generated was: 49950
+Number of negative numbers generated was: 20787
+Number of zero's generated was: 29263
+
+Enter the max range. 1
+Enter the amount of numbers to be generated. 10
+Number of positive numbers generated was: 7
+Number of negative numbers generated was: 0
+Number of zero's generated was: 3
+
+# 3 Question
+Enter the type of beer (D = draft, B = bottle, C = can): D
+Enter the serving size(ml): 1500
+Enter a manufacturer(B=beer manufacturers, M=Microbrewers, P=Brew Pubs): P
+The total tax is 264.00 cents.
+
+Enter the type of beer (D = draft, B = bottle, C = can): D
+Enter the serving size(ml): 568
+Enter a manufacturer(B=beer manufacturers, M=Microbrewers, P=Brew Pubs): M
+The total tax is 99.97 cents.
+
+Enter the type of beer (D = draft, B = bottle, C = can): D
+Enter the serving size(ml): 1500
+Enter a manufacturer(B=beer manufacturers, M=Microbrewers, P=Brew Pubs): B
+The total tax is 264.00 cents.
+
+Enter the type of beer (D = draft, B = bottle, C = can): B
+Enter the serving size(ml): 341
+Enter a manufacturer(B=beer manufacturers, M=Microbrewers, P=Brew Pubs): B
+The total tax is 60.02 cents.
+
+Enter the type of beer (D = draft, B = bottle, C = can): B
+Enter the serving size(ml): 710
+Enter a manufacturer(B=beer manufacturers, M=Microbrewers, P=Brew Pubs): M
+The total tax is 124.96 cents.
+
+Enter the type of beer (D = draft, B = bottle, C = can): C
+Enter the serving size(ml): 355
+Enter a manufacturer(B=beer manufacturers, M=Microbrewers, P=Brew Pubs): B
+The total tax is 62.48 cents.
+
+Enter the type of beer (D = draft, B = bottle, C = can): C
+Enter the serving size(ml): 473
+Enter a manufacturer(B=beer manufacturers, M=Microbrewers, P=Brew Pubs): M
+The total tax is 83.25 cents.

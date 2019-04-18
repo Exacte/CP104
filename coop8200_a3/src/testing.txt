@@ -1,0 +1,47 @@
+# Question 1
+What is the Height of the cylinder(m)? 10
+What is the radius of the cylinder(m)? 2
+The base are is 12.56 and the volume is 125.60.
+
+What is the Height of the cylinder(m)? 34
+What is the radius of the cylinder(m)? 5.6
+The base are is 98.47 and the volume is 3347.99.
+
+What is the Height of the cylinder(m)? 2.5
+What is the radius of the cylinder(m)? .5
+The base are is 0.79 and the volume is 1.96.
+
+# Question 2
+What is you desired final amount: 1000
+What is the annual percent? 5
+How long will the money sit for(yr)? 3
+The initial amount to invest is 172.66
+
+What is you desired final amount: 1000000
+What is the annual percent? 10
+How long will the money sit for(yr)? 5
+The initial amount to invest is 3284.27
+
+What is you desired final amount: 5000
+What is the annual percent? 3.5
+How long will the money sit for(yr)? 2
+The initial amount to invest is 2189.79
+
+# Question 3
+What was the cost of the meal? 25.99
+Are you in Ontario (Y/N)y
+Cost of the meal:
+    Food: $ 25.99
+     Tax: $  3.38
+     Tip: $  4.41
+-------------------
+Total: $    33.77
+
+What was the cost of the meal? 25.99
+Are you in Ontario (Y/N)n
+Cost of the meal:
+    Food: $ 25.99
+     Tax: $  1.30
+     Tip: $  4.09
+-------------------
+Total: $    31.38

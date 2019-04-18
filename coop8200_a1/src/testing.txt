@@ -1,0 +1,41 @@
+"""
+-------------------------------------------------------
+testing.txt
+Assignment 1 Testing
+-------------------------------------------------------
+Author:  Mason Cooper
+ID:      140328200
+Email:   coop8200@mylaurier.ca
+Version: ${isodate}
+-------------------------------------------------------
+"""
+# Question 1
+"They should have longer memories," he said.
+7 things you need to know about Laurier’s new website
+It’s not about you – not just yet.
+For every program:
+- name module by question number
+- in the template, fill in the program name
+- in the template, fill in the program description
+
+# Question 2
+Please input your name: mason
+Please input your home town: toronto
+Hello, my name is mason
+And i am from toronto
+
+Please input your name: Neil
+Please input your home town: Hamilton
+Hello, my name is Neil
+And i am from Hamilton
+
+# Question 3
+Please enter your favorite course: Computer Science
+Enter the grade you hope to achieve for that course: A+
+Please enter your Second favorite course: Math
+Enter the grade you hope to achieve for that course: A
+Please enter your favorite course: Physics
+Enter the grade you hope to achieve for that course: B+
+A+ Computer Science
+A Math
+B+ Physics
